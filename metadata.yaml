@@ -1,0 +1,69 @@
+_repo: Lord-Jim_5658
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "Lord Jim is a novel by Joseph Conrad originally published as a serial\
+  \ in Blackwood's Magazine from October 1899 to November 1900.\nAn early and primary\
+  \ event is the abandonment of a ship in distress by its crew including the young\
+  \ British seaman Jim. He is publicly censured for this action and the novel follows\
+  \ his later attempts at coming to terms with his past.\nIn 1998, the Modern Library\
+  \ ranked Lord Jim 85th on its list of the 100 best English-language novels of the\
+  \ 20th century.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5658'
+  wikidata: Q727408
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'Cowardice -- Fiction'
+- !lcsh 'Merchant marine -- Officers -- Fiction'
+- !lcsh 'Indonesia -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Atonement -- Fiction'
+- !lcsh 'British -- Indonesia -- Fiction'
+- GITenberg
+title: Lord Jim
+url: http://www.gutenberg.org/ebooks/5658
+wikipedia:
+- https://eo.wikipedia.org/wiki/Lord_Jim
+- https://pa.wikipedia.org/wiki/%E0%A8%B2%E0%A8%BE%E0%A8%B0%E0%A8%A1_%E0%A8%9C%E0%A8%BF%E0%A8%AE
+- https://en.wikisource.org/wiki/Lord_Jim
+- https://pl.wikisource.org/wiki/Lord_Jim_(t%C5%82um._W%C4%99s%C5%82awska)
+- https://ms.wikipedia.org/wiki/Tuan_Jim_(karya)
+- https://fr.wikisource.org/wiki/Lord_Jim
+- https://pt.wikipedia.org/wiki/Lord_Jim
+- https://es.wikipedia.org/wiki/Lord_Jim_(novela)
+- https://en.wikipedia.org/wiki/Lord_Jim
+- https://et.wikisource.org/wiki/Lord_Jim
+- https://ro.wikipedia.org/wiki/Lord_Jim
+- https://oc.wikipedia.org/wiki/Lord_Jim
+- https://fr.wikipedia.org/wiki/Lord_Jim_(roman)
+- https://sh.wikipedia.org/wiki/Lord_Jim
+- https://pl.wikipedia.org/wiki/Lord_Jim
+- https://da.wikipedia.org/wiki/Lord_Jim
+- https://simple.wikipedia.org/wiki/Lord_Jim
+- https://ar.wikipedia.org/wiki/%D9%84%D9%88%D8%B1%D8%AF_%D8%AC%D9%8A%D9%85
+- https://id.wikipedia.org/wiki/Lord_Jim
+- https://en.wikiquote.org/wiki/Lord_Jim
+- https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%93%9C_%EC%A7%90
+- https://de.wikipedia.org/wiki/Lord_Jim
+- https://sr.wikipedia.org/wiki/%D0%9B%D0%BE%D1%80%D0%B4_%D0%8F%D0%B8%D0%BC
+- https://it.wikipedia.org/wiki/Lord_Jim_(romanzo)
+- https://no.wikipedia.org/wiki/Lord_Jim
+- https://tr.wikipedia.org/wiki/Lord_Jim
