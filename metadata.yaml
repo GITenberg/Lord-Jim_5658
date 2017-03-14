@@ -1,5 +1,8 @@
 _repo: Lord-Jim_5658
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -19,6 +22,8 @@ description: "Lord Jim is a novel by Joseph Conrad originally published as a ser
   \ his later attempts at coming to terms with his past.\nIn 1998, the Modern Library\
   \ ranked Lord Jim 85th on its list of the 100 best English-language novels of the\
   \ 20th century.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5658#Lord-Jim
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
